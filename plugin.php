@@ -4,7 +4,7 @@
  * Plugin Name:       Genie Plugin Example
  * Plugin URI:        https://lnk7.com/plugins/genie/
  * Description:       An Exmaple Plugin Using the GeniePress Framework
- * Version:           1.4.13
+ * Version:           0.1.0
  * Requires at least: 5.5
  * Author:            Sunil Jaiswal
  * Author URI:        https://lnk7.com/
