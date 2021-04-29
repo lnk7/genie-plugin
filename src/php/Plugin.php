@@ -8,7 +8,7 @@ use Lnk7\Genie\Utilities\AddShortcode;
 use Lnk7\Genie\Utilities\HookInto;
 use Lnk7\Genie\Utilities\RegisterAjax;
 use Lnk7\Genie\View;
-use Plugin\Exceptions\PluginException;
+use Plugin\Exceptions\ThemeException;
 
 class Plugin implements GenieComponent
 {
