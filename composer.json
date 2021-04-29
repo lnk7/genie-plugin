@@ -1,6 +1,7 @@
 {
   "name": "lnk7/genie-plugin",
-  "description": "A plugin using the Genie Framework",
+  "description": "A sample plugin using the GeniePress Framework",
+  "license": "GPL-2.0-or-later",
   "authors": [
     {
       "name": "Sunil Jaiswal",

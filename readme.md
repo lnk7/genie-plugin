@@ -1,6 +1,5 @@
-# Genie: The WordPress Developer's Framework
+# GeniePress: The WordPress Programmer's Toolkit
 
-## Installation
+Make writing WordPress code feel like writing Laravel.
 
-`composer create-project laravel/laravel lnk7\genie-plugin`
-
+Check https://geniepress.org for documentation

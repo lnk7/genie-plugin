@@ -268,16 +268,16 @@
         },
         {
             "name": "lnk7/genie",
-            "version": "1.4.13",
+            "version": "1.4.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lnk7/genie.git",
-                "reference": "ad491b5ef5b7be6a86df4b7df46d5d05da44378c"
+                "reference": "0b0fcafe9e8e64205e1f29f9f11855f9126b776c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lnk7/genie/zipball/ad491b5ef5b7be6a86df4b7df46d5d05da44378c",
-                "reference": "ad491b5ef5b7be6a86df4b7df46d5d05da44378c",
+                "url": "https://api.github.com/repos/lnk7/genie/zipball/0b0fcafe9e8e64205e1f29f9f11855f9126b776c",
+                "reference": "0b0fcafe9e8e64205e1f29f9f11855f9126b776c",
                 "shasum": ""
             },
             "require": {
@@ -285,15 +285,14 @@
                 "ext-json": "*",
                 "illuminate/support": "^7.27",
                 "inlinestyle/inlinestyle": "^1.2.7",
-                "php": "^7.2.0",
+                "php": "^7.3.0",
                 "symfony/inflector": "^5.1",
                 "twig/twig": "^2.1"
             },
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Lnk7\\Genie\\": "src",
-                    "GeniePluginExample\\": "example/src/php"
+                    "Lnk7\\Genie\\": "src"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -308,12 +307,12 @@
                     "role": "Developer"
                 }
             ],
-            "description": "Advanced WordPress Programmer's Toolkit",
+            "description": "The GeniePress framework",
             "support": {
                 "issues": "https://github.com/lnk7/genie/issues",
-                "source": "https://github.com/lnk7/genie/tree/1.4.13"
+                "source": "https://github.com/lnk7/genie/tree/1.4.14"
             },
-            "time": "2021-04-25T13:47:11+00:00"
+            "time": "2021-04-29T21:39:59+00:00"
         },
         {
             "name": "nesbot/carbon",
