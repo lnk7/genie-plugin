@@ -1,0 +1,24 @@
+{
+  "name": "lnk7/genie-plugin",
+  "description": "A plugin using the Genie Framework",
+  "authors": [
+    {
+      "name": "Sunil Jaiswal",
+      "email": "sunil@lnk7.com",
+      "homepage": "https://lnk7.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "lnk7/genie": "^1.4"
+  },
+  "type": "library",
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "GeniePlugin\\": "src/php"
+    }
+  }
+}
